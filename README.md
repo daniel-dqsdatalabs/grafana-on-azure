@@ -1,2 +1,2 @@
 # grafana-on-azure
-running the grafana container on an Azure App
+running the grafana container on an Azure App (Real-Time Monitoring with Grafana)
